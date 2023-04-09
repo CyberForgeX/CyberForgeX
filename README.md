@@ -1,10 +1,6 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Cascadia+Mono&display=swap">
-</head>
-body {
-  font-family: 'Cascadia Mono', monospace;
-}
-<body>
+
+![Text in Cascadia Mono](https://github.com/CyberForgeX/https://github.com/CyberForgeX/ThePandaKing94/blob/main/images/text_image.png)
+
 <h1 style="font-size: 48px; font-family: 'Cascadia Mono', monospace; text-align: center;">🌟 CYBERFORGE 🌟</h1>
 
   <p style="font-size: 24px;">Here is some centered text.</p>
@@ -62,6 +58,11 @@ body {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/9f1d20d1502f3c0423cb3aebc1a1247d/raw/50e8f7de438e16fbd5d5a0b8cfa7ea6c98779021/quotes.txt" alt="GitHub Readme Quotes">
 </p>
+  
+  
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+
+
 
 **Skills & Technologies 💡**
 Here are some of the tools and technologies I work with:
@@ -99,9 +100,6 @@ Here are some of the tools and technologies I work with:
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-
 
 </body>
 
