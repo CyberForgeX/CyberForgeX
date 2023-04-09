@@ -1,10 +1,17 @@
 
 <h1 align="center">🌟 CYBERFORGE 🌟</h1>
+<p align="center">
+ 🌟🌟🌟
+</p>
+<h3 align="center">🖼️ Profile Views:</h3>
 
-<h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=CyberForgeX&color=green" alt="Profile views">
-</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CyberForgeX&color=green" alt="Profile views" width="auto" height="30" />
+</p>                                                                                                               
+                                                                                                                            
+<p align="center">
+  <img src="https://gisgeography.com/wp-content/uploads/2018/05/Machine-Learning-Artificial-Intelligence-GIS.jpg" alt="ai img">
+</p>
 
 <p align="center">
   <img src="https://assets.entrepreneur.com/content/3x2/2000/20190830085354-shutterstock-732378577.jpeg?crop=16:9" alt="Futurustic img">
@@ -14,9 +21,11 @@
   "I strongly advise people to check out CyberForgeX's collaboration platform, which can be found at:
 </p>
 
-<p align="center" color="#6262B2>
+
+
+<h2 align="center">
   <a href="https://github.com/CyberForgeX/collaboration-platform">https://github.com/CyberForgeX/collaboration-platform</a>
-</p>
+</h2>
 
 <h2 align="center">🏆 Welcome to my GitHub profile! 🏆</h2>
 
