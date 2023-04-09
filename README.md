@@ -1,26 +1,20 @@
 
-![Text in Cascadia Mono](https://github.com/CyberForgeX/https://github.com/CyberForgeX/ThePandaKing94/blob/main/images/text_image.png)
+<h1 align="center">🌟 CYBERFORGE 🌟</h1>
 
-<h1 style="font-size: 48px; font-family: 'Cascadia Mono', monospace; text-align: center;">🌟 CYBERFORGE 🌟</h1>
-
-  <p style="font-size: 24px;">Here is some centered text.</p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CyberForgeX&color=blue" alt="Profile views">
-</p>
+<h3 align="center">
+  <img src="https://komarev.com/ghpvc/?username=CyberForgeX&color=green" alt="Profile views">
+</h3>
 
 
 <p align="center">
-  <img src="https://example.com/image.png" alt="Example Image">
+  <img src="https://assets.entrepreneur.com/content/3x2/2000/20190830085354-shutterstock-732378577.jpeg?crop=16:9" alt="Futurustic img">
 </p>
 
 <p align="center">
-  "I strongly advise people to check out CyberForgeX's collaboration platform, which can be found at https://github.com/CyberForgeX/collaboration-platform."
+  "I strongly advise people to check out CyberForgeX's collaboration platform, which can be found at:
 </p>
 
-<p align="center">
+<p align="center" color="#6262B2>
   <a href="https://github.com/CyberForgeX/collaboration-platform">https://github.com/CyberForgeX/collaboration-platform</a>
 </p>
 
@@ -59,13 +53,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/9f1d20d1502f3c0423cb3aebc1a1247d/raw/50e8f7de438e16fbd5d5a0b8cfa7ea6c98779021/quotes.txt" alt="GitHub Readme Quotes">
 </p>
   
-  
+  <p align="center">
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+</p>
 
-
-
+<h2 align="center">
 **Skills & Technologies 💡**
+</h2>
+
+<p align="center">
 Here are some of the tools and technologies I work with:
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -99,7 +97,8 @@ Here are some of the tools and technologies I work with:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]
 
-</body>
+
+
 
