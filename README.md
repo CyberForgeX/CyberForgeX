@@ -61,13 +61,33 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/9f1d20d1502f3c0423cb3aebc1a1247d/raw/50e8f7de438e16fbd5d5a0b8cfa7ea6c98779021/quotes.txt" alt="GitHub Readme Quotes">
 </p>
-  
-  <p align="center">
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+ 
+ <p align="center">
+![CyberForgeX's GitHub calendar](https://github-readme-streak-stats.herokuapp.com/?user=CyberForgeX&theme=radical)
 </p>
 
+<div align="center">
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+</div>
+
+<div align="center">
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+</div>
+
+<div align="center">
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+</div>
+
+<div align="center">
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+</div>
+
+<div align="center">
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+</div>
+
 <h2 align="center">
-**Skills & Technologies 💡**
+🎓🏆 Skills & Technologies 💻🐍
 </h2>
 
 <p align="center">
