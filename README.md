@@ -21,17 +21,15 @@
   "I strongly advise people to check out CyberForgeX's collaboration platform, which can be found at:
 </p>
 
-
-
 <h2 align="center">
   <a href="https://github.com/CyberForgeX/collaboration-platform">https://github.com/CyberForgeX/collaboration-platform</a>
 </h2>
 
 <h2 align="center">🏆 Welcome to my GitHub profile! 🏆</h2>
 
-<p align="center">
+<h3 align="center">
   I'm a software developer, cybersecurity expert, and visionary with a passion for exploring emerging technologies. My interests span from full-stack development, front-end development, and AI programming, to cloud computing, cryptography, entrepreneurship, and computer forensics.
-</p>
+</h3>
 
 <h2 align="center">🏆 About Me 🏆</h2>
 
@@ -58,41 +56,32 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CyberForgeX&column=4&margin-w=18&margin-h=18" alt="GitHub Trophy">
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/9f1d20d1502f3c0423cb3aebc1a1247d/raw/50e8f7de438e16fbd5d5a0b8cfa7ea6c98779021/quotes.txt" alt="GitHub Readme Quotes">
-</p>
+<div align="center">
  
- <p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/9f1d20d1502f3c0423cb3aebc1a1247d/raw/50e8f7de438e16fbd5d5a0b8cfa7ea6c98779021/quotes.txt" alt="GitHub Readme Quotes">
+
 ![CyberForgeX's GitHub calendar](https://github-readme-streak-stats.herokuapp.com/?user=CyberForgeX&theme=radical)
-</p>
 
-<div align="center">
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-</div>
 
-<div align="center">
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-</div>
 
-<div align="center">
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-</div>
 
-<div align="center">
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+
+![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
+ 
 </div>
 
-<div align="center">
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-</div>
 
 <h2 align="center">
 🎓🏆 Skills & Technologies 💻🐍
 </h2>
 
-<p align="center">
+<h2 align="center">
 Here are some of the tools and technologies I work with:
-</p>
+</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
