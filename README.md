@@ -28,7 +28,7 @@
 <h2 align="center">🏆 Welcome to my GitHub profile! 🏆</h2>
 
 <h3 align="center">
-  I'm a software developer, cybersecurity expert, and visionary with a passion for exploring emerging technologies. My interests span from full-stack development, front-end development, and AI programming, to cloud computing, cryptography, entrepreneurship, and computer forensics.
+  I'm a software developer, cybersecurity expert, and visionary with a passion for exploring emerging technologies. My interests span from full-stack development, AI programming, to cloud computing, cryptography, entrepreneurship, and Security+AI forensics.
 </h3>
 
 <h2 align="center">🏆 About Me 🏆</h2>
