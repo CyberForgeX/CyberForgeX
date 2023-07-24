@@ -10,10 +10,6 @@
 </p>                                                                                                               
                                                                                                                             
 <p align="center">
-  <img src="https://gisgeography.com/wp-content/uploads/2018/05/Machine-Learning-Artificial-Intelligence-GIS.jpg" alt="ai img">
-</p>
-
-<p align="center">
   <img src="https://assets.entrepreneur.com/content/3x2/2000/20190830085354-shutterstock-732378577.jpeg?crop=16:9" alt="Futurustic img">
 </p>
 
@@ -80,7 +76,7 @@
 </h2>
 
 <h2 align="center">
-Here are some of the tools and technologies I work with a lot at the moment.:
+Here are some of the tools and technologies I love working with a lot at the moment:
 </h2>
 
 ## Technologies:
