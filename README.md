@@ -28,10 +28,9 @@
 </h3>
 
 <h2 align="center">🏆 About Me 🏆</h2>
-<h2 align="center">
-> "The echoes of our past paint the canvas of our future." - CyberForgeX
-> 
-</h2>
+<h3 align="center">
+ The echoes of our past paint the canvas of our future
+</h3>
 <p align="center">
   With years of experience under my belt, I'm constantly pushing the boundaries in the world of software development and cybersecurity. I'm currently working on a variety of groundbreaking projects, including:
 </p>
