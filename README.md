@@ -29,6 +29,8 @@
 
 <h2 align="center">🏆 About Me 🏆</h2>
 
+> "The echoes of our past paint the canvas of our future." - CyberForgeX
+> 
 <p align="center">
   With years of experience under my belt, I'm constantly pushing the boundaries in the world of software development and cybersecurity. I'm currently working on a variety of groundbreaking projects, including:
 </p>
@@ -58,12 +60,7 @@
 
 ![CyberForgeX's GitHub calendar](https://github-readme-streak-stats.herokuapp.com/?user=CyberForgeX&theme=radical)
 
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
 
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
- 
 </div>
 
 
