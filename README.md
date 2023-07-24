@@ -60,10 +60,6 @@
 
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
 
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-
-![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
-
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
 
 ![GitHub Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/462e43b1056c8e6f6351c13ef27394e1/raw/9510ba6f9875c5d5e5a5ad0258e835032a16f977/quotes.txt)
@@ -75,11 +71,7 @@
 🎓🏆 Skills & Technologies 💻🐍
 </h2>
 
-<h2 align="center">
-Here are some of the tools and technologies I love working with a lot at the moment:
-</h2>
-
-## Technologies:
+## Here are some of the tools and technologies I love working with a lot at the moment:
 
 
 <div align="center">
