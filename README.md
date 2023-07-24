@@ -13,9 +13,9 @@
   <img src="https://assets.entrepreneur.com/content/3x2/2000/20190830085354-shutterstock-732378577.jpeg?crop=16:9" alt="Futurustic img">
 </p>
 
-<p align="center">
+<h3 align="center">
   "I strongly advise people to check out CyberForgeX's collaboration platform, which can be found at:
-</p>
+</h3>
 
 <h2 align="center">
   <a href="https://github.com/CyberForgeX/collaboration-platform">https://github.com/CyberForgeX/collaboration-platform</a>
