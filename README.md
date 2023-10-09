@@ -56,7 +56,6 @@
 
 <div align="center">
  
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=default&fontDefault=Open%20Sans&langDefault=en&animation=default&quotesUrl=https://gist.githubusercontent.com/CyberForgeX/9f1d20d1502f3c0423cb3aebc1a1247d/raw/50e8f7de438e16fbd5d5a0b8cfa7ea6c98779021/quotes.txt" alt="GitHub Readme Quotes">
 
 ![CyberForgeX's GitHub calendar](https://github-readme-streak-stats.herokuapp.com/?user=CyberForgeX&theme=radical)
 
