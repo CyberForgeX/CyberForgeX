@@ -13,14 +13,6 @@
   <img src="https://assets.entrepreneur.com/content/3x2/2000/20190830085354-shutterstock-732378577.jpeg?crop=16:9" alt="Futurustic img">
 </p>
 
-<h3 align="center">
-  "I strongly advise people to check out CyberForgeX's collaboration platform, which can be found at:
-</h3>
-
-<h2 align="center">
-  <a href="https://github.com/CyberForgeX/collaboration-platform">https://github.com/CyberForgeX/collaboration-platform</a>
-</h2>
-
 <h2 align="center">🏆 Welcome to my GitHub profile! 🏆</h2>
 
 <h3 align="center">
@@ -79,7 +71,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
