@@ -10,7 +10,7 @@
 </p>                                                                                                               
                                                                                                                             
 <p align="center">
-  <img src="[https://assets.entrepreneur.com/content/3x2/2000/20190830085354-shutterstock-732378577.jpeg?crop=16:9](https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/f95bf3a3-95d4-481c-8d7e-8c15ca655850/c34d15ba-b7f0-4e89-961e-2d50b0d3b2be.png)" alt="Cat img">
+  <img src="[https://assets.entrepreneur.com/content/3x2/2000/20190830085354-shutterstock-732378577.jpeg?crop=16:9]" alt="Cat img">
 </p>
 
 <h2 align="center">🏆 Welcome to my GitHub profile! 🏆</h2>
